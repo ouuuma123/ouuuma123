@@ -27,7 +27,7 @@ I build web applications with Java and Spring Boot on the back end, and Angular 
 Web application to track shipments, with status management and real-time notifications (WebSocket).
 Java, Spring Boot, Angular, TypeScript, WebSocket, Maven.
 
-**[Room Booking System](https://github.com/ouuuma123/R-servation_Salle)**
+**[Room Booking System](https://github.com/ouuuma123/APPLICATION-DE-RESERVATION-DE-SALLES)**
 Web application for booking rooms, with availability management and time-slot conflict detection.
 Java, Spring Boot, Thymeleaf, MySQL, JUnit, Mockito.
 
